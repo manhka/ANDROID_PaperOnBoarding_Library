@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MY PC/.gradle/caches/transforms-3/1142a1ec3fae7893d0b449b41a8f0cf5/transformed/paper-onboarding-1.1.3/res/layout/onboarding_main_layout.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/MY PC/AndroidStudioProjects/PaperOnBroading/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
